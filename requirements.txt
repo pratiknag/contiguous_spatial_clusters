@@ -1,0 +1,5 @@
+numpy<2
+pandas
+matplotlib
+scikit-learn
+faiss-cpu==1.7.4
