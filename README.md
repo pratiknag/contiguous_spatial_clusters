@@ -56,7 +56,7 @@ pip install -r requirements.txt
 python clustering.py
 ```
 
-This will generate a plot `clusters.png` showing the spatial clusters along with the csv file.
+This will give the clusters for each data inside the folder `generated_clusters` which can be used for further analysis.
 
 ---
 
@@ -95,7 +95,7 @@ contiguous_spatial_clusters/
 
 ```python
 
-!python clustering.py
+python clustering.py
 ```
 
 ### R
